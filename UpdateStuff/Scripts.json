@@ -58,7 +58,7 @@
    {
       "title":"Расширитель хитбокса",
       "credits": "от Squares",
-      "desc" : "Нажмите правую клавишу Ctrl, чтобы открыть графический интерфейс Hitbox Extender. Может работать не во всех играх.",
+      "desc" : "Нажмите правую клавишу Ctrl, чтобы открыть графический интерфейс Hitbox Extender.",
       "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GeneralScripts/HitboxExtender.lua\"))()",
       "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GeneralScripts/HitboxExtender.png"
    },
@@ -79,7 +79,7 @@
    {
       "title":"Невидимый бросок",
       "credits": "от Diemiers",
-      "desc" : "Скрипт, позволяющий незаметно перебрасывать людей (нажмите Z, чтобы включить). Может работать не во всех играх.",
+      "desc" : "Скрипт, позволяющий незаметно перебрасывать людей (нажмите Z, чтобы включить).",
       "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GeneralScripts/InvisibleFling.lua\"))()",
       "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GeneralScripts/InvisibleFling.png"
    },
